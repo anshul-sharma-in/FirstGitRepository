@@ -3,4 +3,3 @@ is
 third
 new
 file.
-added
